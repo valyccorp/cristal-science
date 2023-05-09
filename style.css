@@ -23,7 +23,7 @@ body{
   }
   
   .active, .accordion:hover {
-    background-color: #ccc;
+    background-color: #e6e6e6;
   }
   
   .accordion:after {
@@ -88,9 +88,45 @@ body{
   section.contenido-ppal.pt-2 {
     background-color: #e3dada;
 }
+section.contenido-ppal.pt-2 {
+    padding: 2%;
+}
 /* fin ajuste */
 /* ajuste titulo principal */
 .titulo1 {
     margin: 2%;
+}
+/* fin ajuste */
+/* ajuste agenda */
+a.btn.btn-primary {
+    width: 100%;
+}
+section#fecha {
+    padding: 2%;
+}
+/* p.dia {
+    font-size: 4rem;
+}
+p.anio {
+    font-size: 2rem;
+} */
+/* fin ajuste */
+
+/* Ajuste dictic */
+section#ditic {
+    padding: 2%;
+}
+.col-sm-6.bg-grays {
+    background-color: #e3dada;
+}
+/* fin ajuste */
+/* ajuste preguntas */
+section#preguntas-frecuentes {
+    padding: 2%;
+}
+/* Fin ajuste */
+/* ajuste agenda */
+section#agenda {
+    padding: 2%;
 }
 /* fin ajuste */
