@@ -1,5 +1,4 @@
-"# cristal-science" 
-"# 
+"# cristal-science 
 Prueba Arquitecto web 
 Nombre: Jonathan J. Cuéllar G.
 C.C. 1067711564
